@@ -1,8 +1,9 @@
-.blue {
-			background-color:blue
+.violet {
+			background-color:violet
 }
 .circle{
+      
 			border-radius:50%;
-			width:300px;
-			height:300px;
+			width:500;
+			height:500px;
 }
